@@ -42,4 +42,5 @@ function sayiTopla(number) {
 sayiTopla(sayi)
 console.log(sayi)
 
+console.log(dolarDun)
 //23.00 Dersteyiz
