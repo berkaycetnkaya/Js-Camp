@@ -24,3 +24,17 @@ console.log(konutKredileri)
 
 let array =[12,"konut kredisi",["a","b","c"]]
 
+let [icAnadolu,marmara]=[{
+name:"iç Anadolu", population:"20m"
+},{name: "Marmara", population:"30m"
+
+},
+{name:"Karadeniz", population:"10m"
+
+}
+
+
+]
+
+console.log(icAnadolu)
+console.log(marmara)
