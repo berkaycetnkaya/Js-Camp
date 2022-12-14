@@ -38,3 +38,5 @@ name:"iç Anadolu", population:"20m"
 
 console.log(icAnadolu)
 console.log(marmara)
+
+//`${field}`  bu işaret ile içeriye javascript kodu griebilirsin
